@@ -6,6 +6,6 @@ Projenin Amacı : Yıllardır oynanan Tetris oyunun Java Programlama dersi kapsa
 
 ## Projenin Görselleri : 
 
-![1]() 
+![1](https://raw.githubusercontent.com/enesdnz/Tetris/master/res/img1.png) 
 
 
